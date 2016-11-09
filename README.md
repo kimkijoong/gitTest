@@ -15,7 +15,7 @@
 - pull
 - fetch
 
-#### upload
+#### upload **수정해야지**
 * push
 
 
